@@ -29,6 +29,6 @@ sidebar:
     pageRef: "/community"
     weight: 2
   - identifier: hugoDocs
-    name: "Curso de Inverno ICC 2025 ↗"
+    name: "Curso de Inverno ICC ↗"
     url: "https://www.icc.fiocruz.br/curso-de-inverno/"
     weight: 3

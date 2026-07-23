@@ -38,7 +38,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.png"
+      filename: "logo-ICC.png"
     button:
       enable: true
       text: "Programação"
