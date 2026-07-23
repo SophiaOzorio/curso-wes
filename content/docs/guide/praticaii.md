@@ -117,6 +117,8 @@ bcftools view -i 'INFO/Func.refGene="exonic"' mgp-hg38-anno.vcf | less
 bcftools view -i 'INFO/Func.refGene="exonic"' mgp-hg38-anno.vcf | bcftools stats > stats-exonic.txt
 less stats-exonic.txt
 ```
+{{% steps %}}
+
 ## Atividade 02
 
 - Quantas variantes genéticas foram chamadas ao todo nas amostras do VCF? Quantas amostras foram sequenciadas no projeto?
@@ -132,6 +134,8 @@ less stats-exonic.txt
 ## Extra
 
 Algumas dicas extras na hora de analisar nosso VCF:
+
+{{% steps %}}
 
 ```yaml
 # Extrair as métricas do arquivo VCF filtrado por cromossomo (ex: chr 1)
