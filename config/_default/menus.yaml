@@ -3,7 +3,7 @@
 
 main:
   - name: Home
-    url: /
+    url: /curso-wes/
     weight: 10
   - name: Práticas
     url: docs/
