@@ -16,7 +16,7 @@ title: Sobre o curso
 ## Mão na massa!
 
 {{< cards >}}
-  {{< card url="/guide/praticai" title="Prática I" icon="document-duplicate" >}}
-  {{< card url="/guide/praticaii" title="Prática II" icon="document-duplicate" >}}
-  {{< card url="/guide/praticaiii" title="Prática III" icon="document-duplicate" >}}
+  {{< card url="/guide/praticai.md" title="Prática I" icon="document-duplicate" >}}
+  {{< card url="/guide/praticaii.md" title="Prática II" icon="document-duplicate" >}}
+  {{< card url="/guide/praticaiii.md" title="Prática III" icon="document-duplicate" >}}
 {{< /cards >}}
