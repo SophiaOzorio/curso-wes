@@ -6,16 +6,16 @@ main:
     url: /curso-wes/
     weight: 10
   - name: Práticas
-    url: docs/
+    url: /docs/
     weight: 20
   - name: Datasets
-    url: blog/
+    url: /blog/
     weight: 30
   - name: Autores
-    url: showcase/
+    url: /showcase/
     weight: 40
   - name: Referências
-    url: community/
+    url: /community/
     weight: 50
 
 sidebar:
