@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "ICC Fiocruz" # Website name
-baseURL: 'https://marcocampanario.github.io/CursoWesICC/' # Website URL
-
+#baseURL: 'https://marcocampanario.github.io/CursoWesICC/' # Website URL
+baseURL: 'https://sophiaozorio.github.io/curso-wes/'
 ############################
 ## PAGE OPTIONS
 ############################
