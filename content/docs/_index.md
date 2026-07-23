@@ -16,7 +16,7 @@ title: Sobre o curso
 ## Mão na massa!
 
 {{< cards >}}
-  {{< card url="/home/sophiaozorio/curso-inverno-wes/CursoWesICC/content/docs/guide/praticai.md" title="Prática I" icon="document-duplicate" >}}
-  {{< card url="/home/sophiaozorio/curso-inverno-wes/CursoWesICC/content/docs/guide/praticaii.md" title="Prática II" icon="document-duplicate" >}}
-  {{< card url="/home/sophiaozorio/curso-inverno-wes/CursoWesICC/content/docs/guide/praticaiii.md" title="Prática III" icon="document-duplicate" >}}
+  {{< card url="/home/sophiaozorio/curso-wes/docs/guide/praticai" title="Prática I" icon="document-duplicate" >}}
+  {{< card url="/home/sophiaozorio/curso-wes/docs/guide/praticaii" title="Prática II" icon="document-duplicate" >}}
+  {{< card url="/home/sophiaozorio/curso-wes/docs/guide/praticaiii" title="Prática III" icon="document-duplicate" >}}
 {{< /cards >}}
