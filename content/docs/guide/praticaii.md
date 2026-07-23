@@ -117,7 +117,7 @@ bcftools view -i 'INFO/Func.refGene="exonic"' mgp-hg38-anno.vcf | less
 bcftools view -i 'INFO/Func.refGene="exonic"' mgp-hg38-anno.vcf | bcftools stats > stats-exonic.txt
 less stats-exonic.txt
 ```
-{{% steps %}}
+{{% /steps %}}
 
 ## Atividade 02
 
