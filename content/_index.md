@@ -14,7 +14,7 @@ sections:
       text: Fundamentos da análise de dados de sequenciamento de exoma completo
       primary_action:
         text: Comece aqui
-        url: /CursoWesICC/docs/
+        url: /curso-wes/docs/
         icon: cursor-arrow-rays
       secondary_action:
         text: Edital
@@ -23,7 +23,7 @@ sections:
         text: "Para download dos datasets de estudo."
         link:
           text: "Clique aqui"
-          url: "/CursoWesICC/blog/"
+          url: "/curso-wes/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
